@@ -9,7 +9,7 @@ namespace JournalMachine.ObjectModel
 {
     interface SocialMediaInterface
     {
-        string ID;
-        string Message;
+        string ID { get; set; }
+        string Message { get; set; }
     }
 }

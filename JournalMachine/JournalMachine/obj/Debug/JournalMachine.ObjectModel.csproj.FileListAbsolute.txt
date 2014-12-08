@@ -1,0 +1,8 @@
+c:\users\avery\documents\visual studio 2013\Projects\JournalMachine\JournalMachine\bin\Debug\JournalMachine.ObjectModel.dll
+c:\users\avery\documents\visual studio 2013\Projects\JournalMachine\JournalMachine\bin\Debug\JournalMachine.ObjectModel.pdb
+c:\users\avery\documents\visual studio 2013\Projects\JournalMachine\JournalMachine\obj\Debug\JournalMachine.ObjectModel.dll
+c:\users\avery\documents\visual studio 2013\Projects\JournalMachine\JournalMachine\obj\Debug\JournalMachine.ObjectModel.pdb
+C:\Development\JournalMachineSolution\JournalMachine\JournalMachine\bin\Debug\JournalMachine.ObjectModel.dll
+C:\Development\JournalMachineSolution\JournalMachine\JournalMachine\bin\Debug\JournalMachine.ObjectModel.pdb
+C:\Development\JournalMachineSolution\JournalMachine\JournalMachine\obj\Debug\JournalMachine.ObjectModel.dll
+C:\Development\JournalMachineSolution\JournalMachine\JournalMachine\obj\Debug\JournalMachine.ObjectModel.pdb
